@@ -1,0 +1,12 @@
+.mention-container {
+  position: relative;
+  width: 100%;
+}
+
+.mention-dropdown {
+  position: absolute;
+}
+
+textarea{
+  width: 100%;
+}
